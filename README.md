@@ -19,5 +19,4 @@
 9. Conduct analysis and visualizations (create new dataframes to asnwer questions, scatterplots, histograms, etc)
 
 
-## Data Dictionary
 
