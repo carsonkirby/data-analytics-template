@@ -17,3 +17,7 @@
 7. Create a 3rd Jupyter notebook file to be used for analysis and visualizations
 8. Import cleaned CSV file as dataframe
 9. Conduct analysis and visualizations (create new dataframes to asnwer questions, scatterplots, histograms, etc)
+
+
+## Data Dictionary
+
